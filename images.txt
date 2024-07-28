@@ -5,3 +5,4 @@ nginx
 postgres
 ffdfgdfg/nps
 redis:7.0.15
+influxdb:2.7.6
