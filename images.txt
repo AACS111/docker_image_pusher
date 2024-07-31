@@ -6,3 +6,12 @@ postgres
 ffdfgdfg/nps
 redis:7.0.15
 influxdb:2.7.6
+
+#k8s
+cni:v3.26.1
+pod2daemon-flexvol:v3.26.1
+node:v3.26.1
+kube-controllers:v3.26.1
+typha:v3.26.1
+node-driver-registrar:v3.26.1
+csi:v3.26.1
