@@ -7,4 +7,4 @@ ffdfgdfg/nps
 redis:7.0.15
 influxdb:2.7.6
 
-eipwork/kuboard:v3
+
